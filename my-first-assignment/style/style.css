@@ -47,3 +47,33 @@ nav ul li{
         border-radius: 5px;
     
 }
+/* action section style */
+.action-section{
+    margin-top: 150px;
+    height: 328px;
+    width: 1080px;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+}
+.action-1{
+    padding-left: 100px;
+}
+.action-2 img{
+    margin-left: 250px;
+    border-radius: 20px;
+    
+}
+.action-btn{
+    height: 30px;
+    width: 180px;
+    color: white;
+        background-color: #4E47FF;
+        border: none;
+        border-radius: 5px;
+}
+.action-description{
+    color: #848383;
+    
+}
