@@ -9,6 +9,9 @@
     margin: 50px 130px;
     padding-top: 40px;
 }
+
+
+
 nav ul li{
     list-style: none;
     font-size: 30px;
@@ -22,6 +25,9 @@ nav ul li{
     background-color: #4E47FF;
     border: none;
     border-radius: 5px;
+}
+.btn:hover{
+    background-color: chocolate;
 }
 .banner{
     height: 237px;width: 300px;
@@ -46,6 +52,9 @@ nav ul li{
         border: none;
         border-radius: 5px;
     
+}
+.btn-2:hover{
+background-color: darkgoldenrod;
 }
 /* action section style */
 .action-section{
@@ -73,6 +82,9 @@ nav ul li{
         background-color: #4E47FF;
         border: none;
         border-radius: 5px;
+}
+.action-btn:hover{
+    background-color: darkorange;
 }
 .action-description{
     color: #848383;
@@ -197,6 +209,10 @@ textarea{
     border-radius: 8px;
     margin-bottom:200px ;
     margin-left: 60px;
+    
+}
+.button:hover{
+    background-color: rgb(240, 160, 133);
 }
 .frm-touch{
     margin: 40px
@@ -206,4 +222,31 @@ textarea{
     padding-left: 80px;
     font-size: 35px;
 }
-
+/* footer  */
+.footer-section{
+   height: 300px; 
+   width: 900px;
+   margin-left: 140px;
+}
+.ftr-titel{
+    text-align: center;
+    font-size: 40px;
+    color: #4E47FF;
+}
+.ftr-description{
+    text-align: center;
+    color: #757575;
+    font-size: 30px;
+}
+.link{
+    display: flex;
+    justify-content: space-around;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+h5 a{
+    text-decoration: none;
+    color: #757575;
+    
+}
