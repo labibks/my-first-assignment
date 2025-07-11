@@ -144,3 +144,66 @@ nav ul li{
 .review-date{
     color: #B3B3B3;
 }
+/* get in touch section */
+.get-in-touch-section{
+    background-color: #f6f7f9;
+    height: 502px;
+    width: 1080px;
+    margin: 100px 100px;
+    border-radius: 5px;
+}
+.touch-section{
+    display: flex;
+    gap: 100px;
+    justify-content: space-between;
+}
+.inp-text{
+    display: block;
+    width: 410px;
+    height: 37px;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin: 50px;
+    border: none;
+    background-color: white;
+}
+.inp-email{
+    display: block;
+        width: 410px;
+        height: 37px;
+        padding-left: 10px;
+        border-radius: 5px;
+        margin: 50px;
+        border: none;
+        background-color: white;
+}
+textarea{
+    display: block;
+        width: 410px;
+        height: 100px;
+        padding-left: 10px;
+        border-radius: 5px;
+        margin: 50px;
+        border: none;
+        background-color: white;
+}
+.button{
+    width: 410px;
+    height: 34px;
+    /* margin: 50px; */
+    color: white;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 8px;
+    margin-bottom:200px ;
+    margin-left: 60px;
+}
+.frm-touch{
+    margin: 40px
+}
+.wlc-touch{
+    padding-top: 130px;
+    padding-left: 80px;
+    font-size: 35px;
+}
+
